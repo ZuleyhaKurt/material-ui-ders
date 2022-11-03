@@ -6,7 +6,7 @@ const TypoButtons = () => {
       MUI typgraphy
     </Typography>
 
-    <Typography variant="body"   mt={4} align="justify">
+    <Typography variant="body2"   mt={4} align="justify" sx={{background:"lightgreen", color:"#eee",fontSize:"1.6rem"}}>
       Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corrupti quia iste sed commodi nihil nesciunt exercitationem necessitatibus eveniet vitae ad.
     </Typography>
     </div>;
